@@ -141,7 +141,7 @@ input[type="search"],
 input[type="password"],
 input[type="number"],
 textarea {
-    background: transparent;
+    
     width: 100%;
     padding: 6px 10px;
     border: 1px solid #ccc;
@@ -1583,6 +1583,17 @@ h4.post-title a {
 }
 .priem-text {
     text-align: center;
+}
+.conts-number {
+    color: white;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: 100; 
+}
+.conts-email {
+    color: white;
+    font-size: 15px;
+    font-family: Roboto;
 }
 @font-face {
     font-family: Roboto;
