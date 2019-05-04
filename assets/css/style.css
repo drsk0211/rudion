@@ -1596,6 +1596,11 @@ h4.post-title a {
     font-size: 20px;
     width: 100%; 
 }
+.info {
+    font-size: 20px;
+    font-family: Roboto;
+    margin-top: 20px;
+}
 .ocompanii td {
     padding-bottom: 15px;
 }
