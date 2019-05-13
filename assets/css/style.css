@@ -428,7 +428,7 @@ input::-webkit-input-placeholder {
 }
 
 .iconca2 img {
- max-width: 120px;
+ max-width: 140px;
  width: 100%;
 }
 
@@ -482,6 +482,7 @@ input::-webkit-input-placeholder {
 .single-about-box {
 	padding: 25px;
     transition: all 0.4s;
+    height: 100%;
 }
 
 .single-about-box img {
@@ -1617,6 +1618,10 @@ h4.post-title a {
 .contact2 {
     color: #007bff;
 }
+.text {
+    font-size: 17px;
+}
+
 @font-face {
     font-family: Roboto;
     src: url(/assets/fonts/Roboto.ttf);
