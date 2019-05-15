@@ -407,7 +407,7 @@ input::-webkit-input-placeholder {
 }
 .hero-area-content {
     color: #fff;
-	padding: 80px 0 170px;
+	padding: 40px 0 170px;
 }
 .hero-area-content h1 {
     color: #fff;
@@ -459,6 +459,7 @@ input::-webkit-input-placeholder {
 }
 .spisok {
     font-size: 18px;
+    font-family: Roboto Light;
 }
 
 .spisok li {
@@ -1585,13 +1586,13 @@ h4.post-title a {
 .conts-number {
     color: white;
     font-size: 30px;
-    font-family: Roboto;
+    font-family: Roboto Light;
     font-weight: 100; 
 }
 .conts-email {
     color: white;
     font-size: 15px;
-    font-family: Roboto;
+    font-family: Roboto Light;
 }
 .ocompanii {
     font-size: 20px;
@@ -1619,12 +1620,21 @@ h4.post-title a {
     color: #007bff;
 }
 .text {
-    font-size: 17px;
+    font-size: 21px;
+    font-family: Roboto Light;
 }
 
 @font-face {
     font-family: Roboto;
     src: url(/assets/fonts/Roboto.ttf);
+}
+@font-face {
+    font-family: Roboto Light;
+    src: url(/assets/fonts/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: Roboto Thin;
+    src: url(/assets/fonts/Roboto-Thin.ttf);
 }
 /*--------------------------------------
 --------- BLOG DETAILS CSS CSS END ---------
