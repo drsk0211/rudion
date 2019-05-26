@@ -407,7 +407,8 @@ input::-webkit-input-placeholder {
 }
 .hero-area-content {
     color: #fff;
-	padding: 40px 0 170px;
+    padding: 40px 0 170px;
+    text-align: center;
 }
 .hero-area-content h1 {
     color: #fff;
@@ -1622,6 +1623,11 @@ h4.post-title a {
 .text {
     font-size: 21px;
     font-family: Roboto Light;
+}
+
+.main_menu {
+    display: flex;
+
 }
 
 @font-face {
